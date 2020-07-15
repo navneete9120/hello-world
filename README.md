@@ -1,3 +1,3 @@
 # hello-world
 introduction 
-welcome to chandigarh university
+welcome to Chandigarh University
