@@ -1,3 +1,3 @@
 # hello-world
 introduction 
-welcome to UIC
+welcome to Chandigarh University
